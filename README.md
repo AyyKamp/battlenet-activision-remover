@@ -1,3 +1,5 @@
+# Pretty much obsolete now since you can do this with the new launcher
+
 # Battle.net Activision Remover
 
 ## How to
